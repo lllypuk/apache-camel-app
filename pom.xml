@@ -20,13 +20,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.apache.camel</groupId>
-            <artifactId>camel-spring-boot-starter</artifactId>
-            <version>2.25.2</version>
-        </dependency>
-        <dependency>
             <groupId>org.apache.camel.springboot</groupId>
-            <artifactId>camel-spring-boot-starter</artifactId>
+            <artifactId>camel-telegram-starter</artifactId>
             <version>3.6.0</version>
         </dependency>
         <dependency>
