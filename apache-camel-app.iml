@@ -115,12 +115,6 @@
     <orderEntry type="library" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3" level="project" />
     <orderEntry type="library" name="Maven: jakarta.activation:jakarta.activation-api:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.camel.springboot:camel-spring-boot-starter:3.6.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.camel.springboot:camel-mongodb-starter:3.6.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.camel:camel-mongodb:3.6.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.camel:camel-jackson:3.6.0" level="project" />
-    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:3.11.2" level="project" />
-    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-sync:4.1.0" level="project" />
-    <orderEntry type="library" name="Maven: org.mongodb:bson:3.11.2" level="project" />
     <orderEntry type="library" name="Maven: org.junit.jupiter:junit-jupiter-api:5.5.2" level="project" />
     <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
